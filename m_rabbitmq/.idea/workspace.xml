@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9febbe05-5823-4bf9-b1ad-be5b43e5b1c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/RabbitmqUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ttbkz0LSyh0ymAz9BniJHvmu2B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Consumer">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.point2point.Consumer" />
+      <module name="m_rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.point2point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.point2point.Provider" />
+      <module name="m_rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.point2point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Provider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9febbe05-5823-4bf9-b1ad-be5b43e5b1c4" name="Default Changelist" comment="" />
+      <created>1623591479950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623591479950</updated>
+      <workItem from="1623591483121" duration="2214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.0.center" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.0.left" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.0.right" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.1.bottom" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.1.center" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.1.left" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state width="1493" height="131" key="GridCell.Tab.1.right" timestamp="1623595320266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1623595320266" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1623592286517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1623592286517" />
+  </component>
+</project>
